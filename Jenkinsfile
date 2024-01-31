@@ -1,3 +1,6 @@
 @Library('roboshop') _
 
-demo()
+env.codeType="nodejs"
+env.component="payment"
+cipipeline()
+
